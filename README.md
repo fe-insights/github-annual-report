@@ -6,7 +6,7 @@ GitHub annual report 是利用 OAuth 认证，通过 GitHub API 调用，获取�
 
 |  报告码                                                                                              | 关注码                                                                                   |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| <img width="200px" src="https://imgkr.cn-bj.ufileos.com/9f4ee62b-220b-445f-84e6-28fb7d55b3ac.png"/> | <img width="250px" src="http://ww1.sinaimg.cn/large/940e68eegy1gaeluqgpfpj20760760t7.jpg"/> |
+| <img width="200px" src="http://ww1.sinaimg.cn/large/940e68eegy1gaenhsbkv6j207s07sgld.jpg"/> | <img width="250px" src="http://ww1.sinaimg.cn/large/940e68eegy1gaeluqgpfpj20760760t7.jpg"/> |
 
 ## 说明
 

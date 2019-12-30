@@ -1,6 +1,6 @@
-export const CLIENT_ID = process.env.NODE_ENV === 'development' ? '93c89cb49b14f6f12340' : '2feced52e3f62ed04731';
+export const CLIENT_ID = process.env.NODE_ENV === 'development' ? '53d130438905d387b354' : '53d130438905d387b354';
 export const CLIENT_SECRET =
-  process.env.NODE_ENV === 'development' ? '7c5ba4ed9bc11546c8a2b22280e58444e21c8375' : 'b60f6c32eaa84e269d3c347d8462d126d501c5e1';
+  process.env.NODE_ENV === 'development' ? '14a9e939b26eadef5806ca550dc7532fba109a3a' : '14a9e939b26eadef5806ca550dc7532fba109a3a';
 export const OWNER = 'guanpengchn';
 export const REPO = 'github-annual-report';
 export const ACCESS_TOKEN = 'ACCESS_TOKEN';

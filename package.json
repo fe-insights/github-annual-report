@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --path docs",
     "test": "react-scripts test",
     "deploy": "./deploy.sh",
     "eject": "react-scripts eject"

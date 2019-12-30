@@ -1,10 +1,12 @@
 ## 简介
 
+**本仓库Fork来自[guanpengchn/github-annual-report](https://github.com/guanpengchn/github-annual-report)**
+
 GitHub annual report 是利用 OAuth 认证，通过 GitHub API 调用，获取用户 2019 年的仓库和提交情况，进行进一步的分析，得出 GitHub 年度代码报告，无安全风险，欢迎扫码来领取你的 GitHub 2019 年度代码报告。
 
 |  报告码                                                                                              | 关注码                                                                                   |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| <img width="200px" src="https://imgkr.cn-bj.ufileos.com/9f4ee62b-220b-445f-84e6-28fb7d55b3ac.png"/> | <img width="250px" src="https://my-wechat.mdnice.com/wechat/wechat_gongzhognhao_20191014013348.gif"/> |
+| <img width="200px" src="https://imgkr.cn-bj.ufileos.com/9f4ee62b-220b-445f-84e6-28fb7d55b3ac.png"/> | <img width="250px" src="http://ww1.sinaimg.cn/large/940e68eegy1gaeluqgpfpj20760760t7.jpg"/> |
 
 ## 说明
 

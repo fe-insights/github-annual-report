@@ -110,7 +110,7 @@ class Page1 extends Component {
               <strong>右上角分享到朋友圈</strong>
             </p>
             <p style={styles.fadeInUp1s} className="mb5">
-              欢迎关注公众号：<strong>牧码啦</strong>
+              欢迎关注公众号：<strong>大前端洞见</strong>
             </p>
             <p style={styles.fadeInUp1s} className="mb5">
               回复「<strong>报告</strong>」查看详细解释
@@ -118,18 +118,18 @@ class Page1 extends Component {
             <a
               style={styles.fadeInUp1s}
               className="mb5"
-              href="https://github.com/guanpengchn/github-annual-report"
+              href="https://github.com/fe-insights/github-annual-report"
             >
-              GitHub 地址，欢迎 Star
+              GitHub 地址
             </a>
             <p style={styles.fadeInUp1s} className="mb5" />
-            <img className="mb20" alt="图片未加载成功" src="http://githubreport.oss-cn-beijing.aliyuncs.com/wechat.jpg" />
+            <img className="mb20" alt="图片未加载成功" src="https://camo.githubusercontent.com/c25aca7a3532b695d77c37bb3c114c7d1f8f5c15/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f39343065363865656779316736387964766b3377766a32306b303038636a73672e6a7067" />
             <a
               style={styles.fadeInUp1s}
               className="mb20"
-              href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MTcyOTQ5OA==&hid=2&sn=09be71572089b12ef449524eb7aa858a"
+              href="https://github.com/giscafer/front-end-manual"
             >
-              作者的精选文章
+              前端开发手册
             </a>
             {this.state.isSelf ? (
               <Button className="mb5" type="primary" onClick={this.handleCalc}>

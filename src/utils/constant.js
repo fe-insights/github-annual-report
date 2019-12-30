@@ -16,8 +16,8 @@ export const STATUS = {
 };
 export const BG1 = 'http://githubreport.oss-cn-beijing.aliyuncs.com/bg1.jpg';
 export const BG2 = 'http://githubreport.oss-cn-beijing.aliyuncs.com/bg2.jpg';
-export const WECHAT = 'http://githubreport.oss-cn-beijing.aliyuncs.com/wechat.jpg';
-export const QRCODE = 'https://githubreport.oss-cn-beijing.aliyuncs.com/qrcode.png';
+export const WECHAT = 'https://camo.githubusercontent.com/c25aca7a3532b695d77c37bb3c114c7d1f8f5c15/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f39343065363865656779316736387964766b3377766a32306b303038636a73672e6a7067';
+export const QRCODE = 'http://ww1.sinaimg.cn/large/940e68eegy1gaeluqgpfpj20760760t7.jpg';
 export const MUSIC = 'http://githubreport.oss-cn-beijing.aliyuncs.com/music.mp3';
 export const TIMEOUT = 30000;
 export const TIPS1_TIME = 5000;

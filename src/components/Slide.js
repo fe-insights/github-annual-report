@@ -87,7 +87,7 @@ class Slide extends Component {
       <div className="Slide">
         <StyleRoot>
           {this.state.page === 1 ? null : (
-            <img className="qrcode" alt="图片未加载成功" src="https://githubreport.oss-cn-beijing.aliyuncs.com/qrcode.png" />
+            <img className="qrcode" alt="图片未加载成功" src="http://ww1.sinaimg.cn/large/940e68eegy1gaeluqgpfpj20760760t7.jpg" />
           )}
           <audio id="audio_player" autoPlay="autoplay">
             <source id="src_mp3" type="audio/mp3" src="http://githubreport.oss-cn-beijing.aliyuncs.com/music.mp3" />

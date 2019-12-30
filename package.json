@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build --path docs",
+    "build": "react-scripts build && rm -rf ./docs/* && mv ./build/* ./docs && cp CNAME ./docs",
     "test": "react-scripts test",
     "deploy": "./deploy.sh",
     "eject": "react-scripts eject"
